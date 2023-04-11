@@ -1,0 +1,23 @@
+{
+  "name": "@bushrakhan/calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cal.js",
+  "type": "module",
+  "bin": {
+
+  "calculator":"cal.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.15.11"
+  }
+}
